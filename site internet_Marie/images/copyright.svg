@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 42.09">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        fill: #fef5ae;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 24.88px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        fill: #fef5ad;
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-5" d="M42.01,21.01c.02,11.61-9.31,21.06-20.8,21.08C9.38,42.11-.01,32.78,0,21.01.01,9.41,9.35.01,20.87,0c11.75-.01,21.13,9.3,21.15,21.01ZM20.93,37.27c8.98.01,16.25-7.16,16.36-16.15.11-8.86-7.28-16.28-16.21-16.29-8.99-.01-16.27,7.17-16.36,16.15-.09,8.86,7.29,16.28,16.22,16.29Z"/>
+    <path class="cls-5" d="M31.94,23.53c-.63,4.95-5.95,9.09-11.26,8.88-5.84-.23-10.72-4.87-10.96-10.44-.28-6.57,3.81-11.44,10.31-12.25,5.3-.67,10.75,3.26,11.97,8.82-1.57,0-3.1.05-4.62-.04-.29-.02-.59-.57-.81-.92-1.79-2.75-5.13-3.82-8.09-2.56-2.96,1.25-4.58,4.43-3.86,7.58.67,2.98,3.61,5.19,6.75,5,2.29-.14,4.01-1.28,5.3-3.18.28-.42.91-.79,1.41-.83,1.28-.12,2.57-.04,3.87-.04Z"/>
+  </g>
+  <text class="cls-2" transform="translate(45.88 29.3)"><tspan x="0" y="0">thega</tspan><tspan class="cls-1" x="60.4" y="0">r</tspan><tspan x="68.29" y="0">de</tspan><tspan class="cls-4" x="94.78" y="0">n</tspan><tspan class="cls-3" x="107.77" y="0">’</tspan><tspan x="111.13" y="0">sgua</tspan><tspan class="cls-6" x="160.59" y="0">r</tspan><tspan x="168.47" y="0">dian</tspan></text>
+</svg>
